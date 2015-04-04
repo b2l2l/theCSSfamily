@@ -1,10 +1,10 @@
 # theCSSfamily
-a full CSS-pure code shapes made with love . "shapes are owl'y humen"  for Demo www.b2l2l.com/2015
+a full CSS-pure code shapes made with love . "shapes are owl'y humen" 
 
 Ahoy coders!
 this is pure CSS code shapes made with love 
 the code is Basic HTML - CSS - JS(coffeescript) 
-HTML is just Some <div>'s styled with Pure CSS " no bootstap no any LIB included . 
+just Some <div>'s styled with Pure CSS "no bootstap. 
 and the JavaScript Code was just for the EYE animate .(j-query) 
 
 
@@ -18,10 +18,16 @@ the Dir "tut" include the code of www.b2l2l.com/2015/tut.php
 Enjoy it - Please Star if you like it . 
 I might get back with other tut's about more stuff using CoffeeScript .
 
-- To run coffeescript code on your server - keep in mind you need node.js to be installed too maybe
+- To run coffeescript code on your server - 
+- keep in mind you need node.js to be installed too maybe
+- 
  https://nodejs.org/
 
-Installation
+
+
+
+
+Installation of coffeescript or http://coffeescript.org/#installation
 
 The CoffeeScript compiler is itself written in CoffeeScript, using the Jison parser generator. The command-line version of coffee is available as a Node.js utility. The core compiler however, does not depend on Node, and can be run in any JavaScript environment, or in the browser (see "Try CoffeeScript", above).
 
@@ -37,7 +43,8 @@ If you'd prefer to install the latest master version of CoffeeScript, you can cl
 
 npm install -g jashkenas/coffeescript
 
-Or, if you want to install to /usr/local, and don't want to use npm to manage it, open the coffee-script directory and run:
+Or, if you want to install to /usr/local, and don't want to use npm to manage it, 
+open the coffee-script directory and run:
 
 sudo bin/cake install
 
