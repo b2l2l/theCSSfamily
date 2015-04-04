@@ -1,0 +1,87 @@
+
+html, body {
+  /* if you want to add smthn to effect the site totally , add it down here */
+  
+}
+body {
+  background-color: black;
+}
+
+div.Mci{
+	height:295px;
+	width:90px;
+	border-radius: 90px 90px 0 0;
+	-moz-border-radius: 90px 90px 0 0;
+	-webkit-border-radius: 90px 90px 0 0;
+	background:pink;
+	margin-left:10px;
+	display: inline-block;
+}
+div.Bci{
+	height:295px;
+	width:90px;
+	border-radius: 90px 90px 0 0;
+	-moz-border-radius: 90px 90px 0 0;
+	-webkit-border-radius: 90px 90px 0 0;
+	background:white;
+	margin-top:10px;
+	margin-left:100px;
+	padding-bottom:-50px;
+	display: inline-block;
+}
+div.Kci{
+	height:295px;
+	width:90px;
+	border-radius: 90px 90px 0 0;
+	-moz-border-radius: 90px 90px 0 0;
+	-webkit-border-radius: 90px 90px 0 0;
+	background:Green;
+	margin-top:10px;
+	margin-left:10px;
+	padding-bottom:-50px;
+	display: inline-block;
+}
+div.eyebrow{
+	height:3px;
+	width:20px;
+	border-radius: 0 0 90px 90px;
+	margin-left:15px;
+	margin-top:14px;
+	display: inline-block;
+	background:black;
+	}
+div.eyes{
+	height:20px;
+	width:20px;
+	background:#01DFD7;
+	margin-top:7px;
+	display: inline-block;
+	border-radius: 50% ;
+}
+div.eyehole{
+	height:7px;
+	width:7px;
+	background:black;
+	margin-top:6px;
+	margin-left:6px;
+	border-radius: 90% / 90% ;
+}
+div.nose
+{
+	width: 0;
+	height: 0;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-top: 20px solid #FAAC58;
+	margin-left:34px;
+	margin-top:10px;
+	border-radius:10px;
+	}
+div.mouth{
+	height:5px;
+	width:25px;
+	border-radius: 0 0 90px 90px;
+	background:#FE2E2E;
+	margin-top:20px;
+	margin-left:30px;
+	}
