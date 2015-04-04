@@ -3,13 +3,17 @@ a full CSS-pure code shapes made with love . "shapes are owl'y humen"
 
 Ahoy coders!
 this is pure CSS code shapes made with love 
-the code is Basic HTML - CSS - JS(coffeescript) 
-just Some <div>'s styled with Pure CSS "no bootstap. 
+
+the code is Basic HTML - CSS - JS(coffeescript)  
+
+just Some <div>'s styled with Pure CSS "no bootstap.  
+
 and the JavaScript Code was just for the EYE animate .(j-query) 
 
 
 
 
+ 
 HeeeY! wait 
 is there is any Javascript coder hate coffeescript? any Crezy People? 
 well Simply coffeescript is amazing! 
