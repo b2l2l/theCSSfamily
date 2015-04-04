@@ -6,7 +6,7 @@ this is pure CSS code shapes made with love
 
 the code is Basic HTML - CSS - JS(coffeescript)  
 
-just Some's styled with Pure CSS "no bootstap.  
+just Some's divs styled with Pure CSS "no bootstap.  
 
 and the JavaScript Code was just for the EYE animate .(j-query) 
 
@@ -15,11 +15,17 @@ and the JavaScript Code was just for the EYE animate .(j-query)
 
  
 HeeeY! wait 
+
 is there is any Javascript coder hate coffeescript? any Crezy People? 
+
 well Simply coffeescript is amazing! 
+
 this is my Frist shot in it .
+
 the Dir "tut" include the code of www.b2l2l.com/2015/tut.php
+
 Enjoy it - Please Star if you like it . 
+
 I might get back with other tut's about more stuff using CoffeeScript .
 
 - To run coffeescript code on your server - 
