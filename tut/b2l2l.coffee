@@ -132,5 +132,5 @@ updateOutput = =>
   }, 10)
   setTimeout updateOutput,
   #noobs if you want to edit the speed of the hand writing Decrease the 120 - don't increase it - I'm kidding i meant developers not noobs
-  (Math.random() * 120) + 4
+  (Math.random() * 115) + 4
 updateOutput()
